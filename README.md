@@ -1,4 +1,4 @@
-**I'm afraid this is broken. Feel free to try anyways and fix/improve **
+**I'm afraid this is broken. Feel free to try anyways and fix/improve**
 requirejs.vim
 =============
 
