@@ -1,4 +1,4 @@
-**I'm afraid this is broken. Feel free to try anyways and fix/improve**
+**I'm afraid this is broken. Feel free to try anyways and fix/improve. Or check this out: https://github.com/nyanhan/requirejs.vim He seems to be a little bit more active on it than I am ;)**
 requirejs.vim
 =============
 
