@@ -1,3 +1,4 @@
+**I'm afraid this is broken. Feel free to try anyways and fix/improve **
 requirejs.vim
 =============
 
@@ -27,5 +28,5 @@ Todos
   require)
 * save map for each buffer
 * update map after creating new dependency
-
+* use requirejs itself to determine the path of all dependencies
 
